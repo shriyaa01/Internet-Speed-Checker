@@ -1,1 +1,1 @@
-# nternet-Speed-Checker
+# Internet-Speed-Checker
