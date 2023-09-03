@@ -26,7 +26,7 @@ This simple Python application allows you to check your internet speed with just
    cd Internet-Speed-Checker
    ```
 
-4. Run the `internet_speed_checker.py` script:
+4. Run the `main.py` script:
 
    ```
    python main.py
